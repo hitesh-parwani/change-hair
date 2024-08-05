@@ -32,7 +32,7 @@ footer
   v-btn(
     :size="size"
     :height="height"
-    href="https://twitter.com/PontusAurdal"
+    href="https://twitter.com/"
     target="_new"
     color="secondary"
     icon="mdi-twitter"
@@ -41,7 +41,7 @@ footer
   v-btn(
     :size="size"
     :height="height"
-    href="https://github.com/Pwntus/change-hairstyle-ai"
+    href="https://github.com/hitesh-parwani/Change-hair"
     target="_new"
     color="black"
     icon="mdi-github"
